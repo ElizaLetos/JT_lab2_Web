@@ -1,0 +1,12 @@
+hhh,344
+yyy,55
+uu,98
+UpperCase of value: erty is ERTY,4
+UpperCase of value: ert is ERT,3
+UpperCase of value: gre is GRE,3
+UpperCase of value: ew is EW,2
+UpperCase of value: we is WE,2
+UpperCase of value: re is RE,4
+UpperCase of value: weee is WEEE,4
+UpperCase of value: tt is TT,4
+UpperCase of value: e is E,1
